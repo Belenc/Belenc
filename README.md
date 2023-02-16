@@ -28,23 +28,13 @@ me gustan los memes<br>amo comer<br>tengo muy buenas amigas<br>soy ese 👻
 ---
 [![](https://visitcount.itsvg.in/api?id=Belec&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-+----------------+-------------------------+------------------------------------+-------------+----------+-----------+
-|      Hora      |  Lunes                  |  Martes                            |  Miercoles  |  Jueves  |  Viernes  |
-+----------------+-------------------------+------------------------------------+-------------+----------+-----------+
-|  7:00 - 7:50   |  COMUNIDADES VIRTUALES  |  MANTENIMIENTO Y REDES DE COMPUTO  |             |          |           |
-+----------------+-------------------------+------------------------------------+-------------+----------+-----------+
-|  7:55 - 8:45   |         FISICA 2        | BIOLOGIA 2                         |             |          |           |
-+----------------+-------------------------+------------------------------------+-------------+----------+-----------+
-|  8:50 - 9:40   |      MATEMATICAS 4      | FISICA 2                           |             |          |           |
-+----------------+-------------------------+------------------------------------+-------------+----------+-----------+
-|  9:45 - 10:35  |       LITERATURA 2      | MATEMATICAS 4                      |             |          |           |
-+----------------+-------------------------+------------------------------------+-------------+----------+-----------+
-| 10:35 - 11:05  |            RE           | C                                  | E           | S        | O         |
-+----------------+-------------------------+------------------------------------+-------------+----------+-----------+
-| 11:05 - 11:55  |         INGLES 4        |                                    |             |          |           |
-+----------------+-------------------------+                                    +-------------+----------+-----------+
-| 12:00 - 12:50  |   HISTORIA DE MEXICO 2  |                                    |             |          |           |
-+----------------+-------------------------+------------------------------------+-------------+----------+-----------+
-| 12:55 - 13:45  |                         |                                    |             |          |           |
-+----------------+-------------------------+------------------------------------+-------------+----------+-----------+
+|      Hora      |  Lunes                  |  Martes                            |  Miercoles                         |  Jueves                                           |  Viernes                          |
+|:--------------:|-------------------------|------------------------------------|------------------------------------|---------------------------------------------------|-----------------------------------|
+|  7:00 - 7:50   |  COMUNIDADES VIRTUALES  |  MANTENIMIENTO Y REDES DE COMPUTO  |  MANTENIMIENTO Y REDES DE COMPUTO  |                      FISICA 2                     | MANTENIMIENTO Y REDES  DE COMPUTO |
+|  7:55 - 8:45   |         FISICA 2        |             BIOLOGIA 2             |             BIOLOGIA 2             |  ACTIVIDADES FISICAS DEPORTIVAS   Y RECREATIVAS 4 |             BIOLOGIA 2            |
+|  8:50 - 9:40   |      MATEMATICAS 4      |              FISICA 2              |            LITERATURA 2            |                   MATEMATICAS 4                   |           MATEMATICAS 4           |
+|  9:45 - 10:35  |       LITERATURA 2      |            MATEMATICAS 4           |              FISICA 2              |          MANTENIMIENTO Y REDES DE COMPUTO         |              FISICA 2             |
+| 10:35 - 11:05  |            RE           |                  C                 |                  E                 |                         S                         |                 O                 |
+| 11:05 - 11:55  |         INGLES 4        |        COMUNIDADES VIRTUALES       |       ORIENTACION EDUCATIVA 4      |                      INGLES 4                     |        HISTORIA DE MEXICO 2       |
+| 12:00 - 12:50  |   HISTORIA DE MEXICO 2  |                                    |            MATEMATICAS 4           |                HISTORIA DE MEXICO 2               |            LITERATURA 2           |
+| 12:55 - 13:45  |                         |                                    |                                    |                     BIOLOGIA 2                    |              INGLES 4             |
